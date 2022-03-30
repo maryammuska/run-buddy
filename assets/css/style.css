@@ -19,7 +19,7 @@ header {
 }
 
 header h1 {
-    fongt-weight: bold;
+    font-weight: bold;
     font-size: 36px; 
     color: #fce138;
     margin:0; 
@@ -71,5 +71,5 @@ footer a{
 
 section {
     padding: 60px;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/hero-bg.jpeg");
 }
