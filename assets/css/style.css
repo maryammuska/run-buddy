@@ -73,6 +73,7 @@ section {
     padding: 60px;
 }
 
+/* Homepage hero */
 /* Hero Style Start */
 .hero {
     background-image: url("../images/hero-bg.jpeg");
@@ -300,3 +301,5 @@ section {
   }
   
   /* REACH OUT STYLES END */
+
+ 
