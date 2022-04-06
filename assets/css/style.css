@@ -80,6 +80,7 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
+    
   }
   /* Hero Style End */
 
@@ -91,6 +92,7 @@ section {
    border-style: solid;
    border-width: 3px;
    border-color: #024e76;
+   
 }
 
 .hero-form {
@@ -100,7 +102,7 @@ section {
     width: 500px;
     color: #024e76;
     position: absolute;
-    bottom: 120px;
+    /*bottom: 120px;*/
     right: 140px;
   }
 
